@@ -21,6 +21,8 @@
 * $ git remote add origin https://github.com/waynenoel/test.git
 * $ git push origin master
 
+**#####Changing a remote's URL**
+*The git remote set-url command changes an existing remote repository URL.
 
 *	Git commits, Begin comments with **It will**
 
