@@ -18,7 +18,7 @@
 * $ git add . or $ git add *filename/location*
 * $ git commit -m "comment"
 * *If you have not already, create a remote repository* and copy to clipboard
-* $ git remote add origin https://github.com/waynenoel/test.git
+* $ git remote add origin https://github.com/waynenoel/programming-portfolio.git
 * $ git push origin master
 
 **#####Changing a remote's URL**
