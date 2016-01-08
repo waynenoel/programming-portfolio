@@ -22,7 +22,9 @@
 * $ git push origin master
 
 **#####Changing a remote's URL**
-*The git remote set-url command changes an existing remote repository URL.
+*git remote -v - (shows remote url currently associate)
+*git remote remove origin (removes current remote assignment)
+*Then you can re-assign the remote with **git remote add origin, then the url**
 
 *	Git commits, Begin comments with **It will**
 
