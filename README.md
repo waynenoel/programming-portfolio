@@ -23,7 +23,7 @@
 
 ## Setup/Installation Requirements
 
-* Go to waynenoel.github.io to view my current github homepage
+* Go to http://waynenoel.github.io/programming-portfolio/ to view my current github homepage
 
 ## Support and contact details
 
