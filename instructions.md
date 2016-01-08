@@ -1,8 +1,11 @@
-##Code Review:
+##Code Review Steps:
 
+###*Put on my classical playlist for serenity now.*
 
-*	Done, Project dir / index & about me / css & img dirs / style.css / boostrap files
-*	Done, README.md that includes:
+####Initial Steps:
+
+*	Create: Project dir / index & about me / css & img dirs / style.css / boostrap files
+*	Create: README.md that includes:
 *	-author name
 *	-project or program name
 *	-description of program
@@ -25,6 +28,7 @@
 ####Web landing page for web programming portfolio:
 *	Use of all of the HTML tags you have learned so far: p, h, ul, ol, li, em, strong, a, img, div, span
 *	Style.css using cascading, box model (margin/padding/border), floats, incorporated Bootstrap classes
+
 *	Your name
 *	An image of you or something that represents who you are
 *	A list of projects you have created with active links to them (either on GitHub or GitHub pages)
