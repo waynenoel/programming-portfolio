@@ -15,10 +15,10 @@ height: 100%;
 }
 
 .panel {
-  margin-top: 800px;
+  margin-top: 300px;
   margin-left: 100px;
   margin-right: 100px;
-  margin-bottom: 200px;
+  margin-bottom: 300px;
   align-items: center;
   padding: 10px;
 }
@@ -35,12 +35,3 @@ h1.ul {
 h3.aboutme {
   float: right;
 }
-
-/*
-<img src="img/banner.jpg" alt="Wayne Noel banner photo.png.">
-
-.jumbotron {
-background-image: url("../img/jumbotron_bg.jpg");
-}
-
-*/
