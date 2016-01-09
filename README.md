@@ -2,7 +2,7 @@
 
 #### Epicodus Week 1 Code Review, 1.8.16
 
-#### By **Wayne Noel**
+#### By Wayne Noel
 
 ## Description
 
