@@ -20,6 +20,7 @@
 ◦	Include your background (education, job experience, or why did you decide to take a class on programming, etc)
 ◦	Your current interests/hobbies/skills
 *	Host your site on GitHub Pages as the “user/organization site” which will make it the landing page at your-username.github.io. Follow along with the instructions from GitHub Pages to make your home page.
+*I used <br> for margin/padding sections I want to add later via css code.
 
 ## Setup/Installation Requirements
 
