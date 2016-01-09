@@ -15,12 +15,21 @@ height: 100%;
 }
 
 .panel {
-  margin: 400px;
-  align-self: center;
+  margin-top: 800px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  align-items: center;
+  padding: 10px;
 }
 
 .panel-body {
   font-size: 18px;
+}
+
+h1.ul {
+  text-decoration: underline;
+  text-shadow: 1.5px .5px rgb(34, 153, 187);
 }
 
 h3.aboutme {
